@@ -1,4 +1,4 @@
-# 🏠 AI-Based Intelligent House Planning System
+# AI-Based Intelligent House Planning System
 
 ![System Overview Dashboard](assets/overview.png)
 
@@ -441,10 +441,10 @@ git push origin feature/your-feature-name
 
 ## 📬 Contact
 
-For questions about the research paper or this demo, open a GitHub Issue or reach out via the email listed in the paper.
+For questions about the research paper or this demo, reach out via the email : Prabhmannat10048@gmail.com
 
 ---
 
 <div align="center">
-  <sub>Built as a research visualization demo · All results from published paper benchmarks · No real ML models used</sub>
+  <sub>Built as a research visualization demo · All results from published paper benchmarks · </sub>
 </div>
